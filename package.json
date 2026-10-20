@@ -1,0 +1,16 @@
+{
+  "name": "itcs-neka",
+  "version": "1.0.0",
+  "description": "WhatsApp bot using Ourin Baileys",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "fluent-ffmpeg": "^2.1.3",
+    "ourin-baileys": "^9.0.21",
+    "pino": "^9.7.0"
+  }
+}
